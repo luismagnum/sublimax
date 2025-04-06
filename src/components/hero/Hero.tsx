@@ -17,7 +17,7 @@ const Hero = () => {
       </div>
 
       <div className="max-w-2xl text-center md:text-left mt-10 md:mt-0">
-        <h1 className="text-2xl md:text-5xl font-bold inline-block bg-white/20 backdrop-blur-md text-yellow-700 px-4 py-2 rounded-lg">
+        <h1 className="text-2xl md:text-5xl font-bold inline-block bg-white/20 backdrop-blur-md text-black px-4 py-2 rounded-lg">
          Sublimá. Regalá. Sorprendé.
         </h1>
         <div data-aos="fade-right"  className="text-white mt-4 text-xl md:text-4xl font-bold">

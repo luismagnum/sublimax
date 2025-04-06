@@ -36,7 +36,7 @@ const Footer = () => {
       </div>
 
       <div className="border-t border-gray-700 mt-6 pt-4 text-center text-sm text-gray-500">
-        © {new Date().getFullYear()} Sublimax - Todos los derechos reservados.
+        © {new Date().getFullYear()} Sublimax.vr - Todos los derechos reservados.
         <p>Devs Luis E. Diaz</p>
       </div>
     </footer>
