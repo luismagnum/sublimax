@@ -16,7 +16,7 @@ const Subli = () => {
           />
         </div>
 
-        <div data-aos="fade-right" className=" bg-gray-100 w-full md:w-1/2 text-center md:text-left">
+        <div data-aos="fade-right" className="w-full md:w-1/2 text-center md:text-left">
           <h2 className="text-3xl font-bold text-gray-800">Creamos diseños para vos</h2>
           <p className="text-gray-600 mt-4 leading-relaxed">
             Ofrecemos personalización con sublimación en una gran variedad de productos, 

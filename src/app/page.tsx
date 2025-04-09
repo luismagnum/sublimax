@@ -10,6 +10,7 @@ import Slider from "@/components/slider/Slider";
 import Footer from "@/components/footer/Footer";
 import SubliTazas from "@/components/sublitaza/SubliTazas";
 import Encargar from "@/components/encargar/Encargar";
+import Testimonios from "@/components/testimonios/Testimonios";
 
 export default function Home() {
   useEffect(() => {
@@ -31,6 +32,7 @@ export default function Home() {
     </div>
     <Subliremera />
     <SubliTazas />
+    <Testimonios />
     <div id="encargar">
     <Encargar />
     </div>

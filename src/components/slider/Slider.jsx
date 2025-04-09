@@ -40,6 +40,7 @@ const Slider = () => {
     "/imag4.png",
     "/imag5.png",
     "/imag6.png",
+    "/imag7.png",
   ];
 
   return (
