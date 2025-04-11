@@ -9,6 +9,7 @@ import Subliremera from "@/components/subliremera/Subliremera";
 import Slider from "@/components/slider/Slider";
 import Footer from "@/components/footer/Footer";
 import SubliTazas from "@/components/sublitaza/SubliTazas";
+import Rompecabezas from "@/components/rompecabezas/Rompecabezas";
 import Encargar from "@/components/encargar/Encargar";
 import Testimonios from "@/components/testimonios/Testimonios";
 
@@ -32,6 +33,7 @@ export default function Home() {
     </div>
     <Subliremera />
     <SubliTazas />
+    <Rompecabezas />
     <Testimonios />
     <div id="encargar">
     <Encargar />

@@ -50,7 +50,7 @@ const Testimonios = () => {
   ];
 
   return (
-    <section className="bg-gray-200 py-16 px-6 md:px-20">
+    <section className="bg-gray-300 py-16 px-6 md:px-20">
       <h2 className="text-3xl font-bold text-center text-gray-800 mb-10">
         Lo que dicen nuestros clientes
       </h2>
