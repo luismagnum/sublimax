@@ -19,7 +19,7 @@ const Subli = () => {
         <div className="w-full md:w-1/2 flex md:h-[500px]">
           <div
             data-aos="fade-right"
-            className="w-full text-left p-6 shadow-lg flex flex-col justify-center"
+            className="w-full text-left p-6 flex flex-col justify-center"
           >
             <h2 className="text-3xl font-bold text-gray-800">
               Creamos diseños para vos
